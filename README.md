@@ -1,2 +1,2 @@
 # -sistemas_informacion-
-#edicion del archivo readme
+#primera edicion del archivo readme
